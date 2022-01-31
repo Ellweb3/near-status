@@ -9,7 +9,7 @@ This is custom component for integration with Near Protocol Blockchain.
   - set your own name, author and version of Component in package.json
   - install dependencies
     - `yarn`
-  - login to Adalo cli
+  - login to Adalo [Adalo dev instruction](https://developers.adalo.com/docs/basics/introduction)
     - `npx adalo login`
   - run dev or prod mod
     - `npx adalo dev` or `npx adalo publish`
@@ -22,5 +22,11 @@ This is custom component for integration with Near Protocol Blockchain.
 
 ## Usage
 
+### If you have never before use Near blockchain you can learn it here [Near Education](https://near.org/ru/education/)
+
 1. Create a smart contract using Rust or AssemblyScript or get an example contract from [Near Examples](https://examples.near.org/)
-2. Set the 
+2. Build & deploy it with your own account.
+3. You need to connect Adalo to contract - you can use my base component [Near Connection](https://github.com/Ellweb3/near-button).
+4. Now you can set view methods.
+5. Fill free to customize it for your contract
+6. You can also use my change method component [Near-submit-button](https://github.com/Ellweb3/near-submit-button)
