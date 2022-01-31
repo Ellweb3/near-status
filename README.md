@@ -29,4 +29,8 @@ This is custom component for integration with Near Protocol Blockchain.
 3. You need to connect Adalo to contract - you can use my base component [Near Connection](https://github.com/Ellweb3/near-button).
 4. Now you can set view methods.
 5. Fill free to customize it for your contract
-6. You can also use my change method component [Near-submit-button](https://github.com/Ellweb3/near-submit-button)
+
+## Addition components
+1. [Near submit button](https://github.com/Ellweb3/near-submit-button)
+2. [Near Connection](https://github.com/Ellweb3/near-button).
+3. [Near View NFT button]()
