@@ -32,5 +32,5 @@ This is custom component for integration with Near Protocol Blockchain.
 
 ## Addition components
 1. [Near submit button](https://github.com/Ellweb3/near-submit-button)
-2. [Near Connection](https://github.com/Ellweb3/near-button).
+2. [Near Connection](https://github.com/Ellweb3/near-button)
 3. [Near View NFT button]()
